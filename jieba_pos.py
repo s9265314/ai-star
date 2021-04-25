@@ -7,9 +7,10 @@ from ehownet_python3 import *
 #import win32api
 #encoding=utf-8
 import jieba
-jieba.set_dictionary("/home/pi/Desktop/dict.txt")
-tree=EHowNetTree("/home/pi/Desktop/EHowNetAPI/db/ehownet_ontology.sqlite")
-
+jieba.set_dictionary("../dict.txt")
+#jieba.set_dictionary("/home/pi/Desktop/dict.txt")
+tree=EHowNetTree("../db/ehownet_ontology.sqlite")
+#tree=EHowNetTree("/home/pi/Desktop/EHowNetAPI/db/ehownet_ontology.sqlite")
 #0=開心 1= 害怕 2= 傷心 3= 生氣
 def jieba_pos(txt):
         success = 1
