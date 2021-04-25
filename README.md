@@ -19,7 +19,8 @@
 ## hardware
 * Raspberry Pi 3 Model B+
 * ReSpeaker 2-Mics Pi HAT
-* 
+
+## 實體照片
 ![](https://i.imgur.com/RJML4mu.jpg)
 ![](https://i.imgur.com/d0Xr3p7.jpg)
 ![](https://i.imgur.com/JYMefBR.jpg)
@@ -34,10 +35,10 @@ https://youtu.be/LoVsrDorPo4
 中研院 廣義知網[E-hownet](https://github.com/ckiplab/ehownet)
 
 
-:::info
+## 注意
 AI Star是利用
 中研院Ehownet 2.3 、 Google Speech-to-Text 所製作
 兩者經過開源及改版後可能需要修改或替代後才能使用
-:::
+
 
 
