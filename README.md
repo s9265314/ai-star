@@ -19,6 +19,7 @@
 ## hardware
 * Raspberry Pi 3 Model B+
 * ReSpeaker 2-Mics Pi HAT
+* 
 ![](https://i.imgur.com/RJML4mu.jpg)
 ![](https://i.imgur.com/d0Xr3p7.jpg)
 ![](https://i.imgur.com/JYMefBR.jpg)
