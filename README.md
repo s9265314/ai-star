@@ -9,7 +9,7 @@
 ---
 ## tool
 * RPi.GPIO
-* import speech_recognition
+* speech_recognition
 * wave
 * jieba
 * pyaudio
